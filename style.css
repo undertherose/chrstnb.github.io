@@ -14,7 +14,7 @@ nav ul, footer ul {
   padding: 0px;
   list-style: none;
   font-weight: bold;
-  display: inline-block;
+  display: inline-flex;
 }
 
 li {
