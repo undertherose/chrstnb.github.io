@@ -15,3 +15,7 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
 }
+
+article, aside, footer, header, hgroup, main, nav, section {
+    display: block;
+}
